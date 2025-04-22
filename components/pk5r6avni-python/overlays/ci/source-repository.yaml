@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pk5r6avni-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pk5r6avni-python
